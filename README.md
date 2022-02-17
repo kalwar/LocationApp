@@ -1,4 +1,4 @@
-# Project Template
+# Location App
 
 This mini project is used for finding the location using TS
 
@@ -8,7 +8,7 @@ This mini project is used for finding the location using TS
 2. `npm start` (to start the webpack)
 3. You can check the `localhost:9000`
 
-# PM app (step-by-step)
+# LocationApp (step-by-step)
 
 LocationApp using TS
 
