@@ -11,7 +11,7 @@ module.exports = {
     static: {
       directory: path.join(__dirname, '/'),
     },
-    port: 9000,
+    port: 9001,
   },
   devtool: 'inline-source-map',
   module: {
