@@ -4,7 +4,7 @@ console.log('Location app starts...');
 const form = document.querySelector('form')!;
 const addressInput = document.getElementById('address')! as HTMLInputElement;
 
-const GOOGLE_API_KEY = 'AIzaSyAb8LDRqUOhRoxYmH7Oop1F-aIMVKAT4io';
+const GOOGLE_API_KEY = 'INSERTYOURGOOGLEMAPSAPIKEY';
 
 // custom type for google geo coding
 type GoogleGeoCodingResponse = {
